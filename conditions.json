@@ -1,0 +1,113 @@
+{
+    "conditions": 
+    [
+        "after midnight",
+        "before noon",
+        "after noon",
+        "before midnight",
+        "after sunrise",
+        "before sunset",
+        "after sunset",
+        "within a week",
+        "within a month",   
+        "within a year",
+        "within a day",
+        "within an hour",
+        "within a minute"
+    ],
+    "firstAct" :
+    [
+        "look away",
+        "close your eyes",
+        "cover your ears",
+        "hold your breath",
+        "silence your tongue",
+        "stop moving"
+    ],
+    "adjectives" :
+    [
+        "meaningful",
+        "hateful",
+        "beautiful",
+        "despicable",
+        "sincere",
+        "deceitful",
+        "kind",
+        "abhorrent",
+        "loving",
+        "cruel",
+        "generous",
+        "selfish",
+        "compassionate",
+        "callous",
+        "pitiful",
+        "taciturn",
+        "loquacious",
+        "sociable",
+        "reclusive",
+        "amicable",
+        "hostile",
+        "optimistic",
+        "pessimistic",
+        "weeping",
+        "laughing",
+        "short",
+        "tall",
+        "thin",
+        "thick",
+        "bright"
+    ],
+    "nouns" :
+    [
+        "outsider",
+        "stranger",
+        "friend",
+        "acquaintance",
+        "Fixer",
+        "passenger",
+        "child",
+        "parent",
+        "butcher",
+        "syndicate boss",
+        "syndicate member"
+    ],
+    "secondAct" :
+    [
+        "attack them",
+        "embrace them",
+        "play with them",
+        "harrass them",
+        "discourage them",
+        "give a gift to them",
+        "steal from them",
+        "help them",
+        "follow them",
+        "befriend them",
+        "stalk them",
+        "annoy them",
+        "maim them",
+        "kill them",
+        "bind them",
+        "sleep with them",
+        "play a game with them",
+        "sit down with them"
+    ],
+    "closing" :
+    [
+        "Remember their face.",
+        "Remember their name.",
+        "Regret this.",
+        "Do not forget this.",
+        "Do not speak.",
+        "Wait.",
+        "",
+        "Etch this into your memory.",
+        "Etch this into your skin.",
+        "Tell somebody what you did.",
+        "Let out a scream.",
+        "Let out a laugh.",
+        "Let out a sob.",
+        "Mourn this.",
+        "Celebrate this."
+    ]
+}
