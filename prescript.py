@@ -59,12 +59,25 @@ def charSpamHide(targetText, speed=0.05):
     
     os.system('cls' if os.name == 'nt' else 'clear')
     
+    # --- The _CLEAR._ Effect ---
+    clearText = "_CLEAR._"
     
+    for _ in range(15): 
+        pureChaos = "".join(random.choice(spamChar) for _ in range(len(clearText)))
+        print('\r' + pureChaos, end='', flush=True)
+        time.sleep(0.03) 
+                
+    currentClear = [random.choice(spamChar) for _ in range(len(clearText))]
     
-    for char in "_CLEAR._":
-        print(char, end='', flush=True) 
-        time.sleep(0.15)
-    print("\n")
+    for i in range(len(clearText)):
+        for j in range(i, len(clearText)):
+            currentClear[j] = random.choice(spamChar)
+        currentClear[i] = clearText[i]
+        print('\r' + "".join(currentClear), end='', flush=True)
+        time.sleep(0.1) 
+        
+    time.sleep(1)
+    print("\n") 
     
 # --- OUTPUT ---
 finalPrescript = generatePrescript()
