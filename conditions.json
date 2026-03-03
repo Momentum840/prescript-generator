@@ -1,6 +1,5 @@
 {
-    "conditions": 
-    [
+    "conditions": [
         "after midnight",
         "before noon",
         "after noon",
@@ -13,19 +12,44 @@
         "within a year",
         "within a day",
         "within an hour",
-        "within a minute"
+        "within a minute",
+        "at exactly 3:33 AM",
+        "during the next rainstorm",
+        "when the clock strikes noon",
+        "upon waking up",
+        "before your next meal",
+        "while standing in an alleyway",
+        "under the pale moonlight",
+        "when the next train passes",
+        "while bleeding",
+        "upon hearing a scream",
+        "when you feel a cold breeze",
+        "while the sun is at its highest",
+        "in total darkness",
+        "when you next see blood"
     ],
-    "firstAct" :
-    [
+    "firstAct": [
         "look away",
         "close your eyes",
         "cover your ears",
         "hold your breath",
         "silence your tongue",
-        "stop moving"
+        "stop moving",
+        "bite your tongue",
+        "clench your fists",
+        "hum a forgotten song",
+        "drop what you are holding",
+        "take off your left shoe",
+        "turn around three times",
+        "look up at the sky",
+        "spit on the ground",
+        "draw blood from your palm",
+        "count to ten aloud",
+        "kneel on the ground",
+        "smile widely",
+        "empty your pockets"
     ],
-    "adjectives" :
-    [
+    "adjectives": [
         "meaningful",
         "hateful",
         "beautiful",
@@ -55,10 +79,25 @@
         "tall",
         "thin",
         "thick",
-        "bright"
+        "bright",
+        "one-eyed",
+        "starving",
+        "wealthy",
+        "trembling",
+        "sleeping",
+        "lost",
+        "injured",
+        "blind",
+        "arrogant",
+        "exhausted",
+        "singing",
+        "limping",
+        "bloodstained",
+        "silent",
+        "furious",
+        "terrified"
     ],
-    "nouns" :
-    [
+    "nouns": [
         "outsider",
         "stranger",
         "friend",
@@ -69,10 +108,25 @@
         "parent",
         "butcher",
         "syndicate boss",
-        "syndicate member"
+        "syndicate member",
+        "Sweeper",
+        "merchant",
+        "musician",
+        "guard",
+        "beggar",
+        "informant",
+        "messenger",
+        "Proxy",
+        "Proselyte",
+        "cook",
+        "thief",
+        "officer",
+        "mechanic",
+        "doctor",
+        "corpse",
+        "stray dog"
     ],
-    "secondAct" :
-    [
+    "secondAct": [
         "attack them",
         "embrace them",
         "play with them",
@@ -90,10 +144,25 @@
         "bind them",
         "sleep with them",
         "play a game with them",
-        "sit down with them"
+        "sit down with them",
+        "buy them a drink",
+        "cut off their hair",
+        "whisper a secret to them",
+        "break their legs",
+        "hand them your weapon",
+        "sing them a lullaby",
+        "take their shoes",
+        "bow to them",
+        "shatter their teeth",
+        "ask them for directions",
+        "feed them",
+        "gouge their eyes out",
+        "swap clothes with them",
+        "applaud them",
+        "apologize to them",
+        "force them to sing"
     ],
-    "closing" :
-    [
+    "closing": [
         "remember their face.",
         "remember their name.",
         "regret this.",
@@ -108,6 +177,17 @@
         "let out a laugh.",
         "let out a sob.",
         "mourn this.",
-        "celebrate this."
+        "celebrate this.",
+        "do not look back.",
+        "then, walk away.",
+        "leave no trace.",
+        "deny everything.",
+        "the Prescript is absolute.",
+        "wash your hands.",
+        "close your eyes.",
+        "never speak of this.",
+        "pretend nothing happened.",
+        "pray for them.",
+        "smile."
     ]
 }
