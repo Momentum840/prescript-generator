@@ -43,7 +43,6 @@ def charSpamShow(targetText, speed=0.05):
         print('\r' + "".join(currentText), end='', flush=True) 
         time.sleep(speed)
         
-    print()
     
 def charSpamHide(targetText, speed=0.05):
     spamChar = string.ascii_letters + string.punctuation + string.digits
