@@ -66,7 +66,8 @@ def charSpamHide(targetText, speed=0.05):
         pureChaos = "".join(random.choice(spamChar) for _ in range(len(clearText)))
         print('\r' + pureChaos, end='', flush=True)
         time.sleep(0.03) 
-                
+       
+    time.sleep(1.5)         
     currentClear = [random.choice(spamChar) for _ in range(len(clearText))]
     
     for i in range(len(clearText)):
