@@ -94,20 +94,20 @@
     ],
     "closing" :
     [
-        "Remember their face.",
-        "Remember their name.",
-        "Regret this.",
-        "Do not forget this.",
-        "Do not speak.",
-        "Wait.",
+        "remember their face.",
+        "remember their name.",
+        "regret this.",
+        "do not forget this.",
+        "do not speak.",
+        "wait.",
         "",
-        "Etch this into your memory.",
-        "Etch this into your skin.",
-        "Tell somebody what you did.",
-        "Let out a scream.",
-        "Let out a laugh.",
-        "Let out a sob.",
-        "Mourn this.",
-        "Celebrate this."
+        "etch this into your memory.",
+        "etch this into your skin.",
+        "tell somebody what you did.",
+        "let out a scream.",
+        "let out a laugh.",
+        "let out a sob.",
+        "mourn this.",
+        "celebrate this."
     ]
 }
